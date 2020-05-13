@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === '.scrim') {
-    	message.reply('https://discord.gg/WMYjAbv');
+    	message.reply('https://www.xnxx.com');
   	}
 });
 
