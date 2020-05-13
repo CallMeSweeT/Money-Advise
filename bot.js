@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === '!kusse') {
-    	message.reply('de gør Neger');
+    	message.reply('neger');
   	}
 });
 
