@@ -12,7 +12,7 @@ client.on('message', message => {
 });
 
 client.on('message', message => {
-    if (message.content === '.jeg er liderlig') {
+    if (message.content === '.jeg') {
     	message.reply('https://www.xnxx.com/');
   	}
 });
