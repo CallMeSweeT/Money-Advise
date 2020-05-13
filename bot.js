@@ -6,7 +6,7 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'hvad rimer på heger') {
+    if (message.content === '!kusse') {
     	message.reply('de gør Neger');
   	}
 });
